@@ -6,7 +6,7 @@
   "author": "Tom MacWright",
   "license": "MIT",
   "scripts": {
-    "test": "tap test"
+    "test": "tap --coverage test"
   },
   "devDependencies": {
     "gh-got": "^5.0.0",

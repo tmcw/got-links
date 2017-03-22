@@ -21,3 +21,7 @@ var result = gotLinks({
   }
 });
 ```
+
+## Used in
+
+* I wrote this library to support [Unfollow everyone on GitHub](https://unfollow-everyone.glitch.me/), an app that does exactly that.

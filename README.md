@@ -1,8 +1,8 @@
 # got-links
 
+[![CircleCI](https://circleci.com/gh/tmcw/got-links/tree/master.svg?style=shield)](https://circleci.com/gh/tmcw/got-links/tree/master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/got-links.svg)](https://greenkeeper.io/)
 
-[![CircleCI](https://circleci.com/gh/tmcw/got-links/tree/master.svg?style=svg)](https://circleci.com/gh/tmcw/got-links/tree/master)
 
 Download multiple pages of results from an API that supports
 the Link header.

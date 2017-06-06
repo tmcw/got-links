@@ -9,7 +9,7 @@
     "test": "tap --coverage test"
   },
   "devDependencies": {
-    "gh-got": "^5.0.0",
+    "gh-got": "^6.0.0",
     "got": "^6.7.1",
     "prettier": "^1.0.0",
     "tap": "^10.3.0"

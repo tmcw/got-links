@@ -1,17 +1,19 @@
 {
   "name": "got-links",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get paged content with got",
   "main": "index.js",
   "author": "Tom MacWright",
   "license": "MIT",
   "scripts": {
-    "test": "tap --coverage test"
+    "test": "tap --coverage test",
+    "release": "standard-version"
   },
   "devDependencies": {
     "gh-got": "^5.0.0",
     "got": "^7.0.0",
     "prettier": "^1.0.0",
+    "standard-version": "^4.2.0",
     "tap": "^10.3.0"
   },
   "dependencies": {

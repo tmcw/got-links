@@ -1,6 +1,6 @@
 {
   "name": "got-links",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get paged content with got",
   "main": "index.js",
   "author": "Tom MacWright",

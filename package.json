@@ -1,6 +1,6 @@
 {
   "name": "got-links",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get paged content with got",
   "main": "index.js",
   "author": "Tom MacWright",
@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "gh-got": "^7.0.0",
-    "got": "^7.0.0",
+    "got": "^8.0.0",
     "prettier": "^1.0.0",
     "standard-version": "^4.2.0",
-    "tap": "^10.3.0"
+    "tap": "^11.0.0"
   },
   "dependencies": {
     "parse-link-header": "^1.0.0"

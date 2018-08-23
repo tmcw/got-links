@@ -10,7 +10,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "gh-got": "^7.0.0",
+    "gh-got": "^8.0.0",
     "got": "^9.0.0",
     "prettier": "^1.0.0",
     "standard-version": "^4.2.0",

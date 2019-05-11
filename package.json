@@ -14,7 +14,7 @@
     "got": "^9.0.0",
     "prettier": "^1.0.0",
     "standard-version": "^5.0.0",
-    "tap": "^12.1.0"
+    "tap": "^13.1.8"
   },
   "dependencies": {
     "parse-link-header": "^1.0.0"
